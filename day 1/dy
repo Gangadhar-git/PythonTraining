@@ -1,0 +1,20 @@
+dynamic programming
+      it is a problem solving technique when a big task is given we break it into multiple smaller tasks and find out solutions
+
+ greedy approach
+     unlike dynamic programming approach as the word saya it is greedy when we get first solution for task greedy will not analys
+     efficient solution or not
+
+#note
+  in dynamic programming decisions will be taken in every stage while solving the problem or task
+THERE ARE 3 STUDENTS 2 BOYS ONE GIRL WE NEED TO FIND HOW MANY DIFFERET WAYS WE NEED TO ARRANGE
+
+                        B1 B2 G1
+                           *
+                       B1   B2   B3
+                       / \
+                       B2 G1
+                       /   \
+                       G1  B2
+
+Back tracking --- going back and rearranging
